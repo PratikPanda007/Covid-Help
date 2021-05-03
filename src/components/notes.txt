@@ -1,0 +1,62 @@
+import React from 'react'
+// import data from './data';
+const newData = data.map((data) =>{
+
+})
+
+const Cards = data.map((data) => {
+    <Card 
+})
+
+// const Cards = ({people}) => {
+
+    
+
+//     return (
+//         <div className="card text-center">
+//             <div className="overflow">
+//             {/* {people.map((help) => {
+//         const {id, name, city, image} = help
+//         return(
+//           <article key={id} className="">
+//             <img src={image} alt={name} />
+//             <div>
+//               <h4>{name}</h4>
+//               <h4>{city}</h4>
+//             </div>
+//           </article>
+//         )
+//       })} */}
+//             </div>
+//         </div>
+//     )
+// }
+
+export default Cards
+
+
+
+
+<ReacrBootStrap.Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+                <ReacrBootStrap.Navbar.Brand href="#home">React-Bootstrap</ReacrBootStrap.Navbar.Brand>
+                <ReacrBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <ReacrBootStrap.Navbar.Collapse id="responsive-navbar-nav">
+                    <ReacrBootStrap.Nav className="mr-auto">
+                    <ReacrBootStrap.Nav.Link href="#features">Features</ReacrBootStrap.Nav.Link>
+                    <ReacrBootStrap.Nav.Link href="#pricing">Pricing</ReacrBootStrap.Nav.Link>
+                    <ReacrBootStrap.NavDropdown title="Dropdown" id="collasible-nav-dropdown">
+                        <ReacrBootStrap.NavDropdown.Item href="#action/3.1">Action</ReacrBootStrap.NavDropdown.Item>
+                        <ReacrBootStrap.NavDropdown.Item href="#action/3.2">Another action</ReacrBootStrap.NavDropdown.Item>
+                        <ReacrBootStrap.NavDropdown.Item href="#action/3.3">Something</ReacrBootStrap.NavDropdown.Item>
+                        <ReacrBootStrap.NavDropdown.Divider />
+                        <ReacrBootStrap.NavDropdown.Item href="#action/3.4">Separated link</ReacrBootStrap.NavDropdown.Item>
+                    </ReacrBootStrap.NavDropdown>
+                    </ReacrBootStrap.Nav>
+                    <ReacrBootStrap.Nav>
+                    <ReacrBootStrap.Nav.Link href="#deets">More deets</ReacrBootStrap.Nav.Link>
+                    <ReacrBootStrap.Nav.Link eventKey={2} href="#memes">
+                        Dank memes
+                    </ReacrBootStrap.Nav.Link>
+                    </ReacrBootStrap.Nav>
+                </ReacrBootStrap.Navbar.Collapse>
+            </ReacrBootStrap.Navbar>

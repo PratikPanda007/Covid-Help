@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Bertie Yates",
+      "city": "kolkata",
+      "image":
+        "https://images.unsplash.com/photo-1585960410426-86a4b41a34f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Hester Hogan",
+      "city": "kolkata",
+      "image": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1110&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Larry Little",
+      "city": "kolkata",
+      "image":
+      "https://images.unsplash.com/photo-1585960410426-86a4b41a34f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Sean Walsh",
+      "city": "kolkata",
+      "image":
+        "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1110&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Lola Gardner",
+      "city": "kolkata",
+      "image":
+        "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1110&q=80"
+    }
+  ]
+  
