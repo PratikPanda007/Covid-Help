@@ -1,2 +1,2 @@
-# Covid-Help
-A website to get all the 'help Information' related to Covid-19.
+# India-Tourism
+A website to get all the 'help Information' related to Tourism in India.
